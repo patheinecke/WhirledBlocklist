@@ -37,3 +37,5 @@ http://whirledmedia.s3-us-west-2.amazonaws.com/e145aae19238a372d6e53360fdd67b0a5
 http://whirledmedia.s3-us-west-2.amazonaws.com/07decdf75620a93d8f2a1f6e4721a72c0b1b72d5.zip
 http://whirledmedia.s3-us-west-2.amazonaws.com/527d3dcad49cda84a83e604dd5bb6bbeec3d63e7.zip
 http://whirledmedia.s3-us-west-2.amazonaws.com/b3155ba9c8c5398fbe26fd45d5d0d64c22a5c7f6.zip
+somebadfile1.zip
+somebadfile2.zip
