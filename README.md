@@ -17,7 +17,7 @@ When adding the Whirled block list, make sure your ad-blocker is not disabled or
 ## AdBlock / AdBlock Plus
 
 1. [Right-click the AdBlock toolbar icon and go to "Options"](http://i.imgur.com/Tbvd1Tz.png)
-2. [On the "filters list" tab click the "choose a filter subscription" dropdown and select "Add a different subscription…" (http://i.imgur.com/Ss9oqYq.png)
+2. [On the "filters list" tab click the "choose a filter subscription" dropdown and select "Add a different subscription…"] (http://i.imgur.com/Ss9oqYq.png)
 3. [Fill in the "Subscription title:" with WhirledBlocklist and the "Filter list location:" with the following](http://i.imgur.com/JPa8Log.png): `https://raw.githubusercontent.com/patheinecke/WhirledBlocklist/master/Blocklist.txt`
 4. Click "+ Add"
 5. [The blocklist should appear under your *Filter lists* tab](http://i.imgur.com/Upj4uaj.png)
